@@ -239,18 +239,18 @@
   \def\\{, }
   \leavevmode\hbox to \textwidth{\hfil\@tablebox{\namefont\@name}\hfil}\par
   \vskip 2pt
-  \fullline
-  \vskip 2pt
   % where do you live?
   \@ifundefined{@addressone}{%
     % do nothing
   }{%
     \leavevmode\hbox to \textwidth
-      {\hfill\vbox{\hbox{\@addressone}
+      {\vbox{\hbox{\@addressone}
 		   \hbox{\@addresstwo}
 		  }%
       }\par
   }
+  \fullline
+  \vskip 2pt
 \endgroup}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
