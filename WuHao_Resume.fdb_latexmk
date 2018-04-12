@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1505323169 "/Users/Hao/resume/myResume.tex" "/Users/Hao/resume/myResume.pdf" "myResume" 1505323170
-  "/Users/Hao/resume/myResume.aux" 1505323169 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/Hao/resume/myResume.tex" 1505323168 7605 425b15df0016301ad9d56ab4d9e76793 ""
+["pdflatex"] 1523508124 "/Users/Hao/resume/WuHao_Resume.tex" "/Users/Hao/resume/WuHao_Resume.pdf" "WuHao_Resume" 1523508125
+  "/Users/Hao/resume/WuHao_Resume.aux" 1523508124 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/Users/Hao/resume/WuHao_Resume.tex" 1505323168 7605 425b15df0016301ad9d56ab4d9e76793 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136768653 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -54,11 +54,11 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1446376872 3849859 47ccb3a453079af2ec7ad1cd4a3298d6 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "myResume.aux" 1505323169 8 a94a2480d3289e625eea47cd1b285758 ""
-  "myResume.tex" 1505323168 7605 425b15df0016301ad9d56ab4d9e76793 ""
+  "WuHao_Resume.aux" 1523508124 8 a94a2480d3289e625eea47cd1b285758 ""
+  "WuHao_Resume.tex" 1505323168 7605 425b15df0016301ad9d56ab4d9e76793 ""
   "res.cls" 1504136069 25218 1a0da10496b94722d21e95793cdeb0e6 ""
   (generated)
-  "myResume.log"
-  "/Users/Hao/resume/myResume.pdf"
-  "myResume.pdf"
-  "/Users/Hao/resume/myResume.log"
+  "WuHao_Resume.log"
+  "WuHao_Resume.pdf"
+  "/Users/Hao/resume/WuHao_Resume.log"
+  "/Users/Hao/resume/WuHao_Resume.pdf"

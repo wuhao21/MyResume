@@ -2,8 +2,8 @@ PWD /Users/Hao/resume
 INPUT /usr/local/texlive/2015/texmf.cnf
 INPUT /usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/Hao/resume/myResume.tex
-OUTPUT /Users/Hao/resume/myResume.log
+INPUT /Users/Hao/resume/WuHao_Resume.tex
+OUTPUT /Users/Hao/resume/WuHao_Resume.log
 INPUT /Users/Hao/resume/res.cls
 INPUT /Users/Hao/resume/res.cls
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
@@ -14,8 +14,8 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/mathpazo.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/mathpazo.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/eulervm/eulervm.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/eulervm/eulervm.sty
-INPUT /Users/Hao/resume/myResume.aux
-INPUT /Users/Hao/resume/myResume.aux
+INPUT /Users/Hao/resume/WuHao_Resume.aux
+INPUT /Users/Hao/resume/WuHao_Resume.aux
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map
@@ -65,7 +65,7 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsppl.fd
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsppl.fd
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/palatino/pplbi7t.tfm
-OUTPUT /Users/Hao/resume/myResume.pdf
+OUTPUT /Users/Hao/resume/WuHao_Resume.pdf
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT /usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map
